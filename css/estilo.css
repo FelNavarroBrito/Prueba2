@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #f1ffe1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #1e3d1d;
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #1e3d1d;
+    margin-left: 1rem;
+}
+
+.nav-link:hover {
+    color: #3d6b3d;
+}
+
+.bg-lightgreen {
+    background-color: #b1f8b1;
+}
+
+.carousel-item img{
+    height: 500px;
+}
+.card img{
+    height: 500px;
+    width: 500px;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: none;
+}
+
+.containerProducto img{
+    height: 100px;
+    width: 100px;
+}
